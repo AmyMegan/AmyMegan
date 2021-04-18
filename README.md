@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmyMegan
-- 👀 I’m interested in leaning about Javascript
-- 🌱 I’m currently learning a SheCodes course
-- 💞️ I’m looking to collaborate on HTML/CSS/Javascript projects
+- 👀 I’m interested in learning how to use HTML, CSS, Bootstrap, Javascript, and React. 
+- 🌱 I’m currently taking a SheCodes course
+- 💞️ I’m looking to collaborate on Front End Developer projects  
 - 📫 How to reach me. Email me on amycostall@outlook.com
 
 <!---
