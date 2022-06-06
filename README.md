@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmyMegan
 - 👀 I’m interested in learning how to use Javascript.
-- 🌱 I’m currently taking West Bro's Beginners Javascript Course! 
-- 💞️ I’m looking to collaborate on Javascript Projects 
+- 🌱 I’m currently taking Front End Mentor Courses 
+- 💞️ I’m looking to build my understanding of how to use Javascript for the Front End before deep diving into the backend. 
 - 📫 How to reach me. Email me on amycostall@outlook.com
 
 <!---
